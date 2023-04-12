@@ -1,4 +1,4 @@
-package hackerrank;
+package oca_2022.hackerrank;
 
 public class Twitter {
 
