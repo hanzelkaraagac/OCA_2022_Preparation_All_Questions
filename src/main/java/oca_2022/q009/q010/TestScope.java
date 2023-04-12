@@ -1,4 +1,4 @@
-package oca_2022.q010;
+package oca_2022.q009.q010;
 
 public class TestScope {
 	public static void main(String[] args) {
