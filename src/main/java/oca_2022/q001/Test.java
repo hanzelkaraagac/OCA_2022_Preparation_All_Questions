@@ -1,7 +1,6 @@
 package oca_2022.q001;
 
 public class Test {
-
 	public static void main(String[] args) {
 		int x = 1;
 		int y = 1;	
