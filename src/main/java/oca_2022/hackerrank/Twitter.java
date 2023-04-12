@@ -4,8 +4,6 @@ public class Twitter {
 
     //Given a tweet, parse out the hashtags.
     //Input: "This #is a #tweet", Output: ["is", "tweet"]
-
-
     public static void main(String[] args) {
         String tweet = "This #is a #tweet";
         String[] hashtags = getHashtags(tweet);
@@ -14,7 +12,6 @@ public class Twitter {
             System.out.println(hashtag);
         }
     }
-
     public static String[] getHashtags(String tweet) {
         String[] words = tweet.split(" ");
         String[] hashtags = new String[words.length];
@@ -27,7 +24,5 @@ public class Twitter {
         }
         return hashtags;
     }
-
-
 
 }
