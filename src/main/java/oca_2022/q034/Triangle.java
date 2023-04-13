@@ -22,4 +22,3 @@ public class Triangle {
 //B.	Area is 3.0
 //C.	Compilation fails at line n1
 //D.	Compilation fails at line n2.
-
