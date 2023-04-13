@@ -1,7 +1,6 @@
 package oca_2022.q173;
 
 public class Q173 {
-
 }
 /*
  173. Given these requirements:   
