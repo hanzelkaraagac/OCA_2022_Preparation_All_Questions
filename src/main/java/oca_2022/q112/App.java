@@ -1,4 +1,4 @@
-package oca_2022.Q112;
+package oca_2022.q112;
 public class App {
    static int count; //normalde static yok burda
     public static void displayMsg(){
