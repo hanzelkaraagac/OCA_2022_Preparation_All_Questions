@@ -1,4 +1,4 @@
-package oca_2022.Q110;
+package oca_2022.q110;
 //bunu kontrol edelim package leri mi ayri anlamadim
 public class Base {
     public void test(){
