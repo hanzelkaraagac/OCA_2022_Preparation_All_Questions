@@ -1,4 +1,4 @@
-package oca_2022.Q116;
+package oca_2022.q116;
 class A{
     public void test(){
         System.out.println("A");
