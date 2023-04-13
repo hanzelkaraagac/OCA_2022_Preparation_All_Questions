@@ -1,4 +1,4 @@
-package oca_2022.q061;
+package oca_2022.q057.q061;
 
 public class Q_61 {
 	
