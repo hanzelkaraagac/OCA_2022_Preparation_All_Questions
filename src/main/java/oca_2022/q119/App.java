@@ -1,4 +1,4 @@
-package oca_2022.Q119;
+package oca_2022.q119;
 
 public class App {
   String greet="Welcome!";
