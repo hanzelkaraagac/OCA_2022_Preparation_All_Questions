@@ -1,4 +1,4 @@
-package oca_2022.q176;
+package oca_2022.q171.q176;
 
 abstract class Robot implements Speakable {
 	public abstract void process();
