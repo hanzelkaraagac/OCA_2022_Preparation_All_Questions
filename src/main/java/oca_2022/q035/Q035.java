@@ -19,4 +19,3 @@ public class Q035 {                           //cibss=== char int byte short str
 //B.	Replace line 5 with boolean opt = l;Replace line 7 with case 1:
 //C.	At line 9, remove the break statement.
 //D.	Remove the default section.
-
