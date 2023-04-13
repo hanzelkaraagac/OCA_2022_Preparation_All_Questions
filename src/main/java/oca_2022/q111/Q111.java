@@ -1,4 +1,4 @@
-package oca_2022.Q111;
+package oca_2022.q111;
 
 public class Q111 {
     public static void main(String[] args) {
